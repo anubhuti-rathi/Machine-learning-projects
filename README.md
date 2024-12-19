@@ -12,6 +12,7 @@ K-NN
 Decision Trees
 Random Forest
 Gradient Boost and XGBoost
+Perceptron - Iris Dataset
 ANN
 CNN - Mnist
 Collaborative filtering - Movies dataset
